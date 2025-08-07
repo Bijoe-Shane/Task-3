@@ -1,4 +1,4 @@
-# Task 3 – SQL Developer Internship
+# Task 3 – SQL Internship
 
  Table Used
 *Products*
